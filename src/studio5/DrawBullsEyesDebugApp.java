@@ -22,10 +22,15 @@ public class DrawBullsEyesDebugApp {
 						JOptionPane.QUESTION_MESSAGE, options)) {
 					//pass
 				} else {
+					
 					break;
 				}
 			}
+			
 			System.exit(0);
 		});
 	}
-}
+	
+	}
+	
+
